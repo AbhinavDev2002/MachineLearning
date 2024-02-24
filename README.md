@@ -9,7 +9,6 @@ Welcome to my machine learning practice repository! This repository contains a c
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -36,7 +35,7 @@ To get started with these projects, clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/AbhinavDev2002/MachineLearning.git
-
+```
 
 ## Usage
 
@@ -48,3 +47,15 @@ To use the code and datasets provided in this repository, follow these steps:
 
 Feel free to explore the code, experiment with different algorithms, and modify as needed for your own projects!
 
+## Contributing
+
+If you'd like to contribute to this repository by adding your own machine learning projects or improvements to existing ones, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/add-my-project`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add my project'`).
+5. Push to the branch (`git push origin feature/add-my-project`).
+6. Create a new Pull Request.
+
+I appreciate any contributions or feedback!
